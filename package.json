@@ -1,0 +1,15 @@
+{
+  "name": "pngquant-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Christopher Baker <christopher@hmudesign.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HMUDesign/pngquant-loader.git"
+  },
+  "dependencies": {
+    "exec-buffer": "^2.0.1",
+    "loader-utils": "~0.2.5",
+    "pngquant-bin": "^3.0.1"
+  }
+}
